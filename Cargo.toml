@@ -1,0 +1,9 @@
+[package]
+name = "simry"
+version = "0.1.0"
+authors = ["tcmal <oscar.shrimpton.personal@gmail.com>"]
+
+[dependencies]
+gio = "^0.5"
+gtk = "^0.5"
+glib = "^0"

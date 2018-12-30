@@ -1,0 +1,15 @@
+.active
+{
+	background-color: white;
+	color: black;
+}
+
+.tab
+{
+	border-radius: 0;
+}
+
+#editor-view
+{
+	font-family: monospace;
+}
